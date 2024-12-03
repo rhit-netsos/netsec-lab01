@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# add the env files
+.env
+
+# add the connect scripts
+connect_*.sh
